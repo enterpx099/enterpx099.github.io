@@ -1,0 +1,51 @@
+body{
+    color: black
+    font-family: Arial;
+    
+}
+
+
+img {
+    width: 600px;
+border-radius: 20px; 
+
+}
+img:hover {
+    border-radius: 20px;
+    transition: 2s;
+}
+    
+    
+}
+
+
+p{
+    
+    width: 500px;
+font-size: 18px;
+
+}
+a {
+ background: rgba(245, 255, 0, 0.72);   
+   padding: 8px 30px; 
+
+border-color:5px; 
+color: #fff;
+text-decoration: none
+}
+
+.menu-link {
+    background: none;
+color: rgb(0, 255, 69);
+transition: 1s;
+}
+
+.menu-link:hover {
+    background: red;
+}
+
+.conteiner {
+    width: 600px;
+margin-left: auto;
+margin-right: auto;
+}
